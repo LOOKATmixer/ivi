@@ -1,0 +1,6 @@
+.card {
+  background: rgb(216, 60, 81);
+  clip-path: polygon(0 0, 100% 0, 100% 85%, 15% 100%, 0 100%);
+}
+
+/*# sourceMappingURL=section_card.css.map */
